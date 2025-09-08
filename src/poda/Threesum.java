@@ -10,7 +10,9 @@ public class Threesum {
 		for(int i=2;i<=number;i++) {
 			System.out.println("hello"+i)	;	
 			
-			System.setOut(null);
+			System.out.println("khguyguiygufutfutfufutfutfufuf");
+			
+			System.out.println("khguyguiygufutfutfufutfutfufuf");
 			
 	}
 }
